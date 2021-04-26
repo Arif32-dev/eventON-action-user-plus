@@ -1,0 +1,125 @@
+=>	814239
+	Occured in H:\laragon\www\zessio\wp-content\plugins\eventon-action-user\includes\form\class-form.php
+	on line 254
+	at 26-Apr-2021 | 05:51:58 AM 
+
+
+=>	Array
+(
+    [814239] => Array
+        (
+            [select_role] => administrator
+            [name] => Executive
+            [color] => dc3949
+            [price] => 0
+            [submissions] => 500
+            [fields] => Array
+                (
+                    [0] => event_subtitle
+                    [1] => event_location_select
+                )
+
+        )
+
+    [518552] => Array
+        (
+            [select_role] => subscriber
+            [name] => Super Admin
+            [color] => 050505
+            [price] => 0
+            [submissions] => 500
+            [fields] => Array
+                (
+                    [0] => event_subtitle
+                    [1] => event_description
+                    [2] => event_location_select
+                    [3] => event_color
+                    [4] => event_organizer_select
+                    [5] => learnmorelink
+                    [6] => virtual
+                    [7] => health
+                    [8] => event_type
+                    [9] => event_type_2
+                    [10] => event_image
+                    [11] => event_additional
+                    [12] => event_timezone
+                    [13] => event_special_edit
+                    [14] => _status
+                    [15] => evors
+                )
+
+        )
+
+)
+
+	Occured in H:\laragon\www\zessio\wp-content\plugins\eventon-action-user\includes\form\class-form.php
+	on line 256
+	at 26-Apr-2021 | 05:50:48 AM 
+
+
+
+
+=>	Array
+(
+    [0] => administrator
+    [1] => bbp_keymaster
+)
+
+	Occured in H:\laragon\www\zessio\wp-content\plugins\eventon-action-user\includes\form\class-form.php
+	on line 252
+	at 26-Apr-2021 | 05:45:53 AM 
+
+
+=>	Array
+(
+    [814239] => Array
+        (
+            [select_role] => zessio
+            [name] => Executive
+            [color] => dc3949
+            [price] => 0
+            [submissions] => 500
+            [fields] => Array
+                (
+                    [0] => event_subtitle
+                    [1] => event_location_select
+                )
+
+        )
+
+    [518552] => Array
+        (
+            [select_role] => subscriber
+            [name] => Super Admin
+            [color] => 050505
+            [price] => 0
+            [submissions] => 500
+            [fields] => Array
+                (
+                    [0] => event_subtitle
+                    [1] => event_description
+                    [2] => event_location_select
+                    [3] => event_color
+                    [4] => event_organizer_select
+                    [5] => learnmorelink
+                    [6] => virtual
+                    [7] => health
+                    [8] => event_type
+                    [9] => event_type_2
+                    [10] => event_image
+                    [11] => event_additional
+                    [12] => event_timezone
+                    [13] => event_special_edit
+                    [14] => _status
+                    [15] => evors
+                )
+
+        )
+
+)
+
+	Occured in H:\laragon\www\zessio\wp-content\plugins\eventon-action-user\includes\form\class-form.php
+	on line 238
+	at 26-Apr-2021 | 05:38:28 AM 
+
+
